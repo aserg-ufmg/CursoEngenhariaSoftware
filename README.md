@@ -5,6 +5,9 @@
 
 # Slides
 
+(Licença (CC-BY)[https://creativecommons.org/licenses/by/3.0/br/]; permite copiar, distribuir, adaptar etc; porém, créditos devem sempre dados ao autor dos slides),''
+
+
 * 00 - [Plano de Curso](https://docs.google.com/presentation/d/13x7qf92piGYh9d8doLylFKq7NjiSw5k5mv-uN_QCrc4/edit?usp=sharing)
 * 01 - [Introdução](https://docs.google.com/presentation/d/1L8yl5gxgaHwsESih6aiB4Oy4rZF5FWmCaX-HZizj9Cg/edit?usp=sharing)
 
