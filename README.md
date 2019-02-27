@@ -1,6 +1,6 @@
 # Curso de Engenharia de Software
-Curso de Engenharia de Software (Bacharelado em Ciência da Computação, DCC/UFMG)
-Prof. Marco Tulio Valente
+
+Material usado no Curso de Engenharia de Software (Bacharelado em Ciência da Computação, DCC/UFMG); Prof. Marco Tulio Valente
 
 # Slides
 
