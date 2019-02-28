@@ -16,9 +16,9 @@
 * Prova 1 (32 pontos)
 * Prova 2 (33 ponros)
 
-# Exercícios em Sala de Aula
+# Exercícios Semanais
 
-Informações em breve.
+Entega em sala de aula; em papel. Mais informações em breve.
 
 # Trabalho Prático
 
