@@ -18,7 +18,7 @@
 
 # Exercícios Semanais
 
-Entega em sala de aula; em papel. Mais informações em breve.
+* [Enunciados](https://docs.google.com/presentation/d/1RF1VO5jqgGEP2qpjUQl0qkJY0mOj7vGZg_5S2_OCLwo/edit?usp=sharing)
 
 # Trabalho Prático
 
