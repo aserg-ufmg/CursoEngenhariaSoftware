@@ -12,6 +12,8 @@
 * 01 - [Introdução](https://docs.google.com/presentation/d/1L8yl5gxgaHwsESih6aiB4Oy4rZF5FWmCaX-HZizj9Cg/edit?usp=sharing)
 * 02 - [Extreme Programming](https://docs.google.com/presentation/d/18pknsXCVWWH4n7k5TYdqC2XDeOW2tgpM8HpaNJ3TMCc/edit?usp=sharing)
 
+Novos slides serão disponibilizados ao longo do curso.
+
 # Provas
 
 * Prova 1 (32 pontos)
