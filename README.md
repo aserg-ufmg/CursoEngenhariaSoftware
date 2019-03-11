@@ -20,8 +20,9 @@ Novos slides serão disponibilizados ao longo do curso.
 
 # Provas
 
-* Prova 1 (32 pontos)
-* Prova 2 (33 ponros)
+* Prova 1 (21 pontos): 03/04/2019
+* Prova 2 (22 pontos)
+* Prova 3 (22 pontos)
 
 # Exercícios Semanais
 
