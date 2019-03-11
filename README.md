@@ -1,6 +1,6 @@
 # Curso de Engenharia de Software
 
-* Material usado no Curso de Engenharia de Software (60 horas)
+* Repositório do Curso de Engenharia de Software (60 horas)
 * Bacharelado em Ciência da Computação, DCC/UFMG
 * Prof. Marco Tulio Valente
 
