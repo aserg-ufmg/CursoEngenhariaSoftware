@@ -6,7 +6,7 @@
 
 # Slides
 
-(Licença [CC-BY](https://creativecommons.org/licenses/by/3.0/br/); permite copiar, distribuir, adaptar etc; porém, créditos devem ser dados ao autor dos slides)
+Licença [CC-BY](https://creativecommons.org/licenses/by/3.0/br/); permite copiar, distribuir, adaptar etc; porém, créditos devem ser dados ao autor dos slides
 
 
 * Introdução:
@@ -16,8 +16,9 @@
   * 02 - [Extreme Programming](https://docs.google.com/presentation/d/18pknsXCVWWH4n7k5TYdqC2XDeOW2tgpM8HpaNJ3TMCc/edit?usp=sharing)
   * 03 - [Scrum](https://docs.google.com/presentation/d/1u8_zQVV7_Pz2Ne2I_SKnRG6Yy3uIsLACRCY6aTkjzhw/edit?usp=sharing) (inclui Kanban e Lean)
   * 04 - Estudo de Caso: CSIndexbr
+  * 05 - Outros processos
 * Projeto
-  * 05 - UML
+  * 06 - UML
   
 Novos slides serão disponibilizados ao longo do curso.
 
