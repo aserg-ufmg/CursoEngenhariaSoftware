@@ -15,7 +15,10 @@
 * Processos:
   * 02 - [Extreme Programming](https://docs.google.com/presentation/d/18pknsXCVWWH4n7k5TYdqC2XDeOW2tgpM8HpaNJ3TMCc/edit?usp=sharing)
   * 03 - [Scrum](https://docs.google.com/presentation/d/1u8_zQVV7_Pz2Ne2I_SKnRG6Yy3uIsLACRCY6aTkjzhw/edit?usp=sharing) (inclui Kanban e Lean)
-
+  * 04 - Estudo de Caso: CSIndexbr
+* Projeto
+  * 05 - UML
+  
 Novos slides serão disponibilizados ao longo do curso.
 
 # Provas
