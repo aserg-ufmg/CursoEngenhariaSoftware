@@ -16,7 +16,7 @@ Licença [CC-BY](https://creativecommons.org/licenses/by/3.0/br/); permite copia
   * 02 - [Extreme Programming](https://docs.google.com/presentation/d/18pknsXCVWWH4n7k5TYdqC2XDeOW2tgpM8HpaNJ3TMCc/edit?usp=sharing)
   * 03 - [Scrum](https://docs.google.com/presentation/d/1u8_zQVV7_Pz2Ne2I_SKnRG6Yy3uIsLACRCY6aTkjzhw/edit?usp=sharing) (inclui Kanban e Lean)
   * 04 - Estudo de Caso: CSIndexbr
-  * 05 - Outros processos
+  * 05 - [Outros Processos](https://docs.google.com/presentation/d/10Le0glVc9JiH5pYa0qJoXSTfbj2zwy1REqJXnhqBSUA/edit?usp=sharing)
 * Projeto
   * 06 - UML
   
