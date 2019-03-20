@@ -33,5 +33,5 @@ Novos slides serão disponibilizados ao longo do curso.
 
 # Trabalho Prático
 
-Informações em breve.
+* [Enunciado](https://docs.google.com/presentation/d/1BEUp9gkb6H6AkRUCmX4V_kWdcWbOh88LuwPy0b_Fe-4/edit?usp=sharing)
 
