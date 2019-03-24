@@ -18,12 +18,13 @@ Licença [CC-BY](https://creativecommons.org/licenses/by/3.0/br/); permite copia
   * 04 - [Outros Processos](https://docs.google.com/presentation/d/10Le0glVc9JiH5pYa0qJoXSTfbj2zwy1REqJXnhqBSUA/edit?usp=sharing) 
 * Projeto:
   * 05 - [UML](https://docs.google.com/presentation/d/1E9BDh06xSH3LLi_hfn4JjekrcYvOgO1wYmsF22-UqCw/edit?usp=sharing) (2 aulas)
+  * 06 - [Padrões de Projeto](https://docs.google.com/presentation/d/1pF95qS5oUnKig5JxZZ9AJViKmXLJf07URwIcRQ8BmS8/edit?usp=sharing)
   
 Novos slides serão disponibilizados ao longo do curso.
 
 # Provas
 
-* Prova 1 (21 pontos): 03/04/2019
+* Prova 1 (21 pontos): 03/04/2019 - Matéria: Processos
 * Prova 2 (22 pontos)
 * Prova 3 (22 pontos)
 
