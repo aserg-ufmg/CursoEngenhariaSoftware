@@ -24,7 +24,7 @@ Novos slides serão disponibilizados ao longo do curso.
 
 # Provas
 
-* Prova 1 (21 pontos): 03/04/2019 - Matéria: Processos
+* Prova 1 (21 pontos): 03/04/2019 - Matéria: Introdução e Processos
 * Prova 2 (22 pontos)
 * Prova 3 (22 pontos)
 
