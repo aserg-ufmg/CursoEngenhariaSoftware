@@ -25,7 +25,7 @@ Novos slides serão disponibilizados ao longo do curso.
 # Provas
 
 * Prova 1 (21 pontos): 03/04/2019 - Matéria: Introdução e Processos
-* Prova 2 (22 pontos)
+* Prova 2 (22 pontos): 08/05/2019
 * Prova 3 (22 pontos)
 
 # Exercícios Semanais
@@ -37,4 +37,5 @@ Novos slides serão disponibilizados ao longo do curso.
 * [Enunciado](https://docs.google.com/presentation/d/1BEUp9gkb6H6AkRUCmX4V_kWdcWbOh88LuwPy0b_Fe-4/edit?usp=sharing)
 
 * Grupos
-  * [Grupo 1](https://github.com/andre-frc/TrabalhoEngSoft)
+  * [Time 1](https://github.com/andre-frc/TrabalhoEngSoft)
+  * [Time 2](https://github.com/juliatiemi/XPSimulation)
