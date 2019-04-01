@@ -43,3 +43,4 @@ Novos slides serão disponibilizados ao longo do curso.
   * [Time 4](https://github.com/engsoftaero/TrabalhoEngSoftware)
   * [Time 5](https://github.com/matheusbuldrini/eswqa)
   * [Time 6](https://github.com/flaviolc18/qa-system)
+  * [Time 7](https://github.com/engsoftwareteam/ProjetoEngSoftwareRepository)
