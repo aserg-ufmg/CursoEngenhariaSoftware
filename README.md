@@ -28,9 +28,10 @@ Novos slides serão disponibilizados ao longo do curso.
 * Prova 2 (22 pontos): 08/05/2019
 * Prova 3 (22 pontos)
 
-# Exercícios Semanais
+# Exercícios
 
-* [Enunciados](https://docs.google.com/presentation/d/1RF1VO5jqgGEP2qpjUQl0qkJY0mOj7vGZg_5S2_OCLwo/edit?usp=sharing)
+* [Exercícios Semanais](https://docs.google.com/presentation/d/1RF1VO5jqgGEP2qpjUQl0qkJY0mOj7vGZg_5S2_OCLwo/edit?usp=sharing)
+* [Revisão para Prova 1](https://docs.google.com/document/d/1rw-Bh2HmqY--61QeU-WUzlDz3wPsKr5UItHbVvssQYo/edit?usp=sharing)
 
 # Trabalho Prático
 
