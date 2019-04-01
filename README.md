@@ -33,6 +33,7 @@ Novos slides serão disponibilizados ao longo do curso.
 
 * [Exercícios Semanais](https://docs.google.com/presentation/d/1RF1VO5jqgGEP2qpjUQl0qkJY0mOj7vGZg_5S2_OCLwo/edit?usp=sharing)
 * [Revisão para Prova 1](https://docs.google.com/document/d/1rw-Bh2HmqY--61QeU-WUzlDz3wPsKr5UItHbVvssQYo/edit?usp=sharing)
+* [Questões de Múltipla Escolha - Prova 1](https://docs.google.com/document/d/1nLLZt-j_zsA_nDh2IfgqFHtGGEFwDrQG40XLuteY8-U/edit?usp=sharing)
 
 # Trabalho Prático
 
