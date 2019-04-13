@@ -6,7 +6,7 @@
 
 # Slides
 
-Licença [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/); permite copiar, distribuir e adaptar, para uso não-comercial; em qualquer caso, créditos devem ser dados ao autor dos slides.
+Licença [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/); permite copiar, distribuir e adaptar, para uso não-comercial; em qualquer caso, créditos devem ser dados ao autor.
 
 
 * Parte I - Introdução:
