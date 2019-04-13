@@ -6,7 +6,7 @@
 
 # Slides
 
-Licença [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/); permite copiar, distribuir e adaptar, para uso não-comercial; emq qualquer caso, créditos devem ser dados ao autor dos slides
+Licença [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/); permite copiar, distribuir e adaptar, para uso não-comercial; em qualquer caso, créditos devem ser dados ao autor dos slides.
 
 
 * Parte I - Introdução:
@@ -20,8 +20,8 @@ Licença [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/); permite co
   * 05 - [UML](https://docs.google.com/presentation/d/1E9BDh06xSH3LLi_hfn4JjekrcYvOgO1wYmsF22-UqCw/edit?usp=sharing) (2 aulas)
   * 06 - [Padrões de Projeto](https://docs.google.com/presentation/d/1pF95qS5oUnKig5JxZZ9AJViKmXLJf07URwIcRQ8BmS8/edit?usp=sharing) (2 aulas)
   * 07 - [Princípios de Projeto](https://docs.google.com/presentation/d/1pCz8hpS7ufqmTlLizmbWw54O54l6-twUbMr1ChmdYCw/edit?usp=sharing) (2 aulas)
-* Parte IV - Testes
-  * Testes de Unidade
+* Parte IV - Testes:
+  * 08 - Testes de Unidade
   
 Novos slides serão disponibilizados ao longo do curso.
 
