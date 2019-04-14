@@ -6,8 +6,7 @@
 
 # Slides
 
-Licença [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/); permite copiar, distribuir e adaptar, para uso não-comercial (NC) e preservando a licença aberta (SA); em qualquer caso, créditos devem ser dados ao autor (BY).
-
+Licença [CC-BY](https://creativecommons.org/licenses/by/3.0/br/); permite copiar, distribuir e  adaptar os slides; porém, créditos devem ser dados ao autor dos slides
 
 * Parte I - Introdução:
   * 00 - [Plano de Curso](https://docs.google.com/presentation/d/13x7qf92piGYh9d8doLylFKq7NjiSw5k5mv-uN_QCrc4/edit?usp=sharing)
@@ -21,7 +20,7 @@ Licença [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/); perm
   * 06 - [Padrões de Projeto](https://docs.google.com/presentation/d/1pF95qS5oUnKig5JxZZ9AJViKmXLJf07URwIcRQ8BmS8/edit?usp=sharing) (2 aulas)
   * 07 - [Princípios de Projeto](https://docs.google.com/presentation/d/1pCz8hpS7ufqmTlLizmbWw54O54l6-twUbMr1ChmdYCw/edit?usp=sharing) (2 aulas)
 * Parte IV - Testes:
-  * 08 - Testes de Unidade
+  * 08 - [Testes de Unidade](https://docs.google.com/presentation/d/1qAJEO71tjZeoeKynuwj1GSl6mCGKobA7q0xW78ZPehk/edit?usp=sharing)
   
 Novos slides serão disponibilizados ao longo do curso.
 
