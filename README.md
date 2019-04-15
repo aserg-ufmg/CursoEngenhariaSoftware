@@ -43,11 +43,3 @@ Novos slides serão disponibilizados ao longo do curso.
 
 * [Enunciado](https://docs.google.com/presentation/d/1BEUp9gkb6H6AkRUCmX4V_kWdcWbOh88LuwPy0b_Fe-4/edit?usp=sharing)
 
-* Grupos:
-  * [Time 1](https://github.com/andre-frc/TrabalhoEngSoft)
-  * [Time 2](https://github.com/juliatiemi/XPSimulation)
-  * [Time 3](https://github.com/grrl/engenharia-de-software)
-  * [Time 4](https://github.com/engsoftaero/TrabalhoEngSoftware)
-  * [Time 5](https://github.com/matheusbuldrini/eswqa)
-  * [Time 6](https://github.com/flaviolc18/qa-system)
-  * [Time 7](https://github.com/engsoftwareteam/ProjetoEngSoftwareRepository)
