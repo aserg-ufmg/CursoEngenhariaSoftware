@@ -21,7 +21,7 @@ Licença [CC-BY](https://creativecommons.org/licenses/by/3.0/br/); permite copia
   * 07 - [Princípios de Projeto](https://docs.google.com/presentation/d/1pCz8hpS7ufqmTlLizmbWw54O54l6-twUbMr1ChmdYCw/edit?usp=sharing) (2 aulas)
 * Parte IV - Testes:
   * 08 - [Testes de Unidade](https://docs.google.com/presentation/d/1qAJEO71tjZeoeKynuwj1GSl6mCGKobA7q0xW78ZPehk/edit?usp=sharing) (2 aulas)
-  * 09 - Test-Driven Development
+  * 09 - Test-Driven Development (1 aula)
   * 10 - Outros Testes
 * Parte V - Refatoração:
 
