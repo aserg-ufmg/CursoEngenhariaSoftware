@@ -14,15 +14,16 @@ Licença [CC-BY](https://creativecommons.org/licenses/by/3.0/br/); permite copia
 * Parte II - Processos:
   * 02 - [Extreme Programming](https://docs.google.com/presentation/d/18pknsXCVWWH4n7k5TYdqC2XDeOW2tgpM8HpaNJ3TMCc/edit?usp=sharing) (3 aulas)
   * 03 - [Scrum](https://docs.google.com/presentation/d/1u8_zQVV7_Pz2Ne2I_SKnRG6Yy3uIsLACRCY6aTkjzhw/edit?usp=sharing) (inclui Kanban e Lean) (1 aula)
-  * 04 - [Outros Processos](https://docs.google.com/presentation/d/10Le0glVc9JiH5pYa0qJoXSTfbj2zwy1REqJXnhqBSUA/edit?usp=sharing) 
+  * 04 - [Outros Processos](https://docs.google.com/presentation/d/10Le0glVc9JiH5pYa0qJoXSTfbj2zwy1REqJXnhqBSUA/edit?usp=sharing) (0.5 aulas)
 * Parte III - Projeto:
   * 05 - [UML](https://docs.google.com/presentation/d/1E9BDh06xSH3LLi_hfn4JjekrcYvOgO1wYmsF22-UqCw/edit?usp=sharing) (2 aulas)
   * 06 - [Padrões de Projeto](https://docs.google.com/presentation/d/1pF95qS5oUnKig5JxZZ9AJViKmXLJf07URwIcRQ8BmS8/edit?usp=sharing) (2 aulas)
   * 07 - [Princípios de Projeto](https://docs.google.com/presentation/d/1pCz8hpS7ufqmTlLizmbWw54O54l6-twUbMr1ChmdYCw/edit?usp=sharing) (2 aulas)
+    08 - [Padrões Arquiteturais](https://docs.google.com/presentation/d/1OvPuKgfkyChXbSfEmSjv_4BZdZGh3SyFwvTsQLewCVQ/edit?usp=sharing) (0.5 aulas)
 * Parte IV - Testes:
-  * 08 - [Testes de Unidade](https://docs.google.com/presentation/d/1qAJEO71tjZeoeKynuwj1GSl6mCGKobA7q0xW78ZPehk/edit?usp=sharing) (2 aulas)
-  * 09 - Test-Driven Development (1 aula)
-  * 10 - Outros Testes
+  * 09 - [Testes de Unidade](https://docs.google.com/presentation/d/1qAJEO71tjZeoeKynuwj1GSl6mCGKobA7q0xW78ZPehk/edit?usp=sharing) (2 aulas)
+  * 10 - Test-Driven Development (1 aula)
+  * 11 - Outros Testes
 * Parte V - Refatoração:
 
 Novos slides serão disponibilizados ao longo do curso.
@@ -30,7 +31,7 @@ Novos slides serão disponibilizados ao longo do curso.
 # Provas
 
 * Prova 1 (21 pontos): 03/04/2019 - Matéria: Introdução e Processos (slides 01 a 04) e Exercícios Semanais
-* Prova 2 (22 pontos): 08/05/2019 - Matéria: Projeto (slides 05 a 07) e Exercícios Semanais
+* Prova 2 (22 pontos): 08/05/2019 - Matéria: Projeto (slides 05 a 08) e Exercícios Semanais
 * Prova 3 (22 pontos)
 
 # Exercícios
