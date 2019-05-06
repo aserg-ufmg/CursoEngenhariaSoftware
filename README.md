@@ -32,7 +32,8 @@ Novos slides serão disponibilizados ao longo do curso.
 
 * Prova 1 (21 pontos): 03/04/2019 - Matéria: Introdução e Processos (slides 01 a 04) e Exercícios Semanais
 * Prova 2 (22 pontos): 08/05/2019 - Matéria: Projeto (slides 05 a 08) e Exercícios Semanais
-* Prova 3 (22 pontos)
+* Prova 3 (22 pontos): 19/06/2014
+* Prova 2a chamada (para alunos que perderam prova; toda matéria): 24/06/2019
 
 # Exercícios
 
