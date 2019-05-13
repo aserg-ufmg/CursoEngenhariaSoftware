@@ -20,11 +20,10 @@ Licença [CC-BY](https://creativecommons.org/licenses/by/3.0/br/); permite copia
   * 06 - [Padrões de Projeto](https://docs.google.com/presentation/d/1pF95qS5oUnKig5JxZZ9AJViKmXLJf07URwIcRQ8BmS8/edit?usp=sharing) (2 aulas)
   * 07 - [Princípios de Projeto](https://docs.google.com/presentation/d/1pCz8hpS7ufqmTlLizmbWw54O54l6-twUbMr1ChmdYCw/edit?usp=sharing) (2 aulas)
   * 08 - [Padrões Arquiteturais](https://docs.google.com/presentation/d/1OvPuKgfkyChXbSfEmSjv_4BZdZGh3SyFwvTsQLewCVQ/edit?usp=sharing) (0.5 aulas)
-* Parte IV - Testes:
-  * 09 - [Testes de Unidade](https://docs.google.com/presentation/d/1qAJEO71tjZeoeKynuwj1GSl6mCGKobA7q0xW78ZPehk/edit?usp=sharing) (2 aulas)
-  * 10 - Test-Driven Development (1 aula)
-  * 11 - Outros Testes
-* Parte V - Refatoração:
+* Parte IV - Testes, Manutenção e Qualidade de Software:
+  * 09 - [Testes Automatizados](https://docs.google.com/presentation/d/1qAJEO71tjZeoeKynuwj1GSl6mCGKobA7q0xW78ZPehk/edit?usp=sharing) (inclui TDD) (2 aulas)
+  * 10 - Roteiro Prático de TDD (1 aula)
+
 
 Novos slides serão disponibilizados ao longo do curso.
 
