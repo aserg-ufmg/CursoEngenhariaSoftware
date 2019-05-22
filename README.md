@@ -22,9 +22,9 @@ Licença [CC-BY](https://creativecommons.org/licenses/by/3.0/br/); permite copia
   * 08 - [Padrões Arquiteturais](https://docs.google.com/presentation/d/1OvPuKgfkyChXbSfEmSjv_4BZdZGh3SyFwvTsQLewCVQ/edit?usp=sharing) (0.5 aulas)
 * Parte IV - Testes, Manutenção e Qualidade de Software:
   * 09 - [Testes Automatizados](https://docs.google.com/presentation/d/1qAJEO71tjZeoeKynuwj1GSl6mCGKobA7q0xW78ZPehk/edit?usp=sharing) (inclui TDD) (2 aulas)
-  * 10 - [Roteiro Prático de TDD](https://github.com/mtov/AulaPraticaTDD) (1 aula)
+  * 10 - [Aula Prática de TDD](https://github.com/mtov/AulaPraticaTDD) (1 aula)
   * 11 - [Refactoring](https://docs.google.com/presentation/d/1ySx23jnRE71GqRLcDPVDYDG8nmC4VRshdudvjvX27I0/edit?usp=sharing) (1.5 aulas)
-
+  * 12 - - [Aula Prática de Refactoring](https://github.com/mtov/AulaPraticaRefactoring) (1 aula)
 
 Novos slides serão disponibilizados ao longo do curso.
 
