@@ -25,8 +25,7 @@ Licença [CC-BY](https://creativecommons.org/licenses/by/3.0/br/); permite copia
   * 10 - [Aula Prática de TDD](https://github.com/mtov/AulaPraticaTDD) (1 aula)
   * 11 - [Refactoring](https://docs.google.com/presentation/d/1ySx23jnRE71GqRLcDPVDYDG8nmC4VRshdudvjvX27I0/edit?usp=sharing) (1.5 aulas)
   * 12 - [Aula Prática de Refactoring](https://github.com/mtov/AulaPraticaRefactoring) (1 aula)
-
-Novos slides serão disponibilizados ao longo do curso.
+  * 13 - [Qualidade de Software](https://docs.google.com/presentation/d/1q75Or0oCgcU72GBkDvrXWOBE4eN83WsMf4UOm1EGsWU/edit?usp=sharing) (1 aula)
 
 # Provas
 
