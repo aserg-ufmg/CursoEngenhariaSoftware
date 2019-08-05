@@ -4,6 +4,8 @@
 * Bacharelado em Ciência da Computação, DCC/UFMG
 * Prof. Marco Tulio Valente
 
+# Plano do Curso
+
 * [Plano do Curso](https://docs.google.com/presentation/d/13x7qf92piGYh9d8doLylFKq7NjiSw5k5mv-uN_QCrc4/edit?usp=sharing)
 
 # Slides e Livro
