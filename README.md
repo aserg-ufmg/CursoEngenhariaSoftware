@@ -8,7 +8,7 @@
 
 * [Plano do Curso](https://docs.google.com/presentation/d/13x7qf92piGYh9d8doLylFKq7NjiSw5k5mv-uN_QCrc4/edit?usp=sharing)
 
-# Slides e Livro
+# Slides e Livro Texto
 
 Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoderna.info).
 
