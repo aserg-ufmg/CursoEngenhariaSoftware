@@ -22,7 +22,6 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 # Exercícios Semanais
 
 * Valor: 15 pontos
-* Individual; entrega em papel e escrito a mão; entrega em sala de aula, na aula de 4a feira.
 * [Enunciado](https://docs.google.com/document/d/e/2PACX-1vSmmTPjAzOqW0vT-RPWO6NluNPIZIgfx9IoQZfQSMLB808FrRx6a6nGxW0XIbT4qTFGbk1wNivYHJNx/pub)
 
 # Trabalho Prático
