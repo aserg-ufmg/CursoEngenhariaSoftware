@@ -14,7 +14,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 
 # Provas
 
-* Prova 1 (20 pontos): 04/09/2019 - 4a feira
+* Prova 1 (20 pontos): 09/09/2019 - 4a feira
 * Prova 2 (25 pontos)
 * Prova 3 (20 pontos)
 * Prova 2a chamada: apenas para alunos que perderam alguma prova (não precisa justificar); toda matéria
