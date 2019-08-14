@@ -27,4 +27,4 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 # Trabalho Prático
 
 * Valor: 15 (TP1) e 5 pontos (TP2)
-* Enunciado: a ser divulgado
+* [Enunciado do TP1](https://docs.google.com/document/d/1iVDRva2ce0sFtuMjv1jClt_Z29d5QKelzQHWYflLRfo/edit?usp=sharing)
