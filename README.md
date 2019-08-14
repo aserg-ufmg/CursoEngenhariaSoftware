@@ -22,7 +22,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 # Exercícios Semanais
 
 * Valor: 15 pontos
-* [Enunciado](https://docs.google.com/document/d/e/2PACX-1vSmmTPjAzOqW0vT-RPWO6NluNPIZIgfx9IoQZfQSMLB808FrRx6a6nGxW0XIbT4qTFGbk1wNivYHJNx/pub)
+* [Enunciado](https://docs.google.com/document/d/1TDtA3cyu9Rv3P51lNL0URq1_1BInzNEpobSMCg2227Y/edit?usp=sharing)
 
 # Trabalho Prático
 
