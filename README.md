@@ -18,7 +18,7 @@ Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoder
 * Prova 2 (25 pontos): 09/10/2019 - 4a feira - Matéria: Caps. 4 a 6
 * Prova 3 (20 pontos): 18/11/2019 - 2a feira - Matéria: Caps. 7 e 8 + slides Refactoring e Qualidade
 * Prova 2a chamada: 20/11/2019 - 4a feira - Apenas para alunos que perderam alguma prova (não precisa justificar); toda matéria
-* Exame Especial: 02/12/2019 - 2a feira - Matéria toda
+* Exame Especial: 02/12/2019 - 2a feira - Matéria toda - 14:55 (mesma sala das aulas)
 
 # Exercícios Semanais
 
