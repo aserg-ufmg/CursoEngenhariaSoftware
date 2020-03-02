@@ -42,4 +42,6 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 
 * Implementar um sistema real, em equipe, simulando o uso de um método ágil
 * Fazer uso de eventos, artefatos e papeis de Scrum (mais detalhes em breve)
-* Primeira tarefa: responder a essa issue (com breve descrição do sistema e equipe), até 
+* Primeira tarefa: abir uma issue neste mesmo repositório da seguinte forma:
+  * título da issue: nome do sistema e breve descrição (exemplo: ABC: Um sistema para XYZ)
+  * Corpo da issue: nome dos membros da equipe; breve descrição das principais funcionalidades do sistema; breve descrição da tecnologia a ser usada (linguagem, frameworks e bancos de dados) e link para o repositório GitHub onde o projeto será desenvolvido.
