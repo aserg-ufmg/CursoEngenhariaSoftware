@@ -31,6 +31,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 ## Exercícios em Sala de Aula
 
 * Toda 4a feira (a não ser quando avisado do contrário)
+* Individuais; sem consulta; duração: 40 minutos
 * Valor: 20 pontos (a menor nota será descartada)
 
 ## Trabalho Prático
