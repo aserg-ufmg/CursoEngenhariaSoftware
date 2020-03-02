@@ -7,6 +7,7 @@
 ## Plano do Curso
 
 Ver capítulos do livro texto
+Pré-requisito: conceitos de algoritmos e estruturas de dados; conceitos de orientação a objetos.
 
 ## Livro Texto
 
