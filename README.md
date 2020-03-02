@@ -16,13 +16,14 @@ Engenharia de Software Moderna [link](https://engsoftmoderna.info).
 
 * Prova 1 (20 pontos): data a definir 
 * Prova 2 (25 pontos): data a definir
-* Prova 2a chamada: data a definir - Apenas para alunos que perderam alguma prova (não precisa justificar); toda matéria
+* Prova 2a chamada: data a definir - Para alunos que perderam alguma prova (não precisa justificar); matérias toda.
 * Exame Especial: data a definir - Matéria toda 
 
 # Exercícios Semanais
 
 * Valor: 15 pontos (a menor nota será descartada)
-* Individuais; para fazer em casa e entregar (impresso ou a mão) na aula de 3a feira. Não serão aceitas entregas por mail.
+* Individuais; para fazer em casa e entregar (impresso ou a mão) na aula de 3a feira. 
+* Não serão aceitas entregas por mail.
 * Enunciados - em breve
 * Observação: existem duas aulas práticas (TDD e Refactoring), que serão consideradas exercícios semanais. Essas aulas serão remotas, ou seja, o aluno vai fazer o roteiro da aula em casa. 
 
@@ -34,5 +35,11 @@ Engenharia de Software Moderna [link](https://engsoftmoderna.info).
 # Trabalho Prático
 
 * Valor: 20 pontos
-* TP1 (15 pontos): Simulação de um sprint
-* TP2 (20 pontos): implementação de testes de unidade
+* TP1 (15 pontos): simulação de um sprint
+* TP2 (20 pontos): implementação de testes de unidade (para o sistema do TP1)
+
+# TP1
+
+* Implementar um sistema real, em equipe, simulando o uso de um método ágil
+* Fazer uso de eventos, artefatos e papeis de Scrum (mais detalhes em breve)
+* Primeira tarefa: responder a essa issue (com breve descrição do sistema e equipe), até 
