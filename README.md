@@ -6,7 +6,7 @@
 
 # Plano do Curso
 
-* Ver capítulos do livro texto
+Ver capítulos do livro texto
 
 # Livro Texto
 
