@@ -2,7 +2,7 @@
 
 * Repositório do Curso de Engenharia de Software (60 horas)
 * Bacharelado em Ciência da Computação, DCC/UFMG
-* Prof. Marco Tulio Valente
+* Prof. Marco Tulio Valente (mtov [at] dcc.ufmg.br)
 
 ## Plano do Curso
 
@@ -31,8 +31,15 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 ## Exercícios em Sala de Aula
 
 * Toda 4a feira (a não ser quando avisado do contrário)
-* Individuais; sem consulta; duração: 40 minutos
+* Individuais; sem consulta; duração: 40 minutos (final da aula)
 * Valor: 20 pontos (a menor nota será descartada)
+
+## Pontos Extra
+
+* 0.25 pontos para cada "typo" (erro de ortografia, gramatical, etc) encontrado no livro texto
+* 1.0 ponto para cada qualquer outro erro mais "grave" 
+* Limitado a 3 pontos por aluno
+* Para garantir o ponto: enviar mail para o professor (apenas o aluno que achar primeiro o erro será contemplado)
 
 ## Trabalho Prático
 
