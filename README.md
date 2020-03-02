@@ -4,13 +4,13 @@
 * Bacharelado em Ciência da Computação, DCC/UFMG
 * Prof. Marco Tulio Valente
 
-# Plano do Curso
+## Plano do Curso
 
 Ver capítulos do livro texto
 
-# Livro Texto
+## Livro Texto
 
-Engenharia de Software Moderna [link](https://engsoftmoderna.info).
+Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 
 # Provas
 
