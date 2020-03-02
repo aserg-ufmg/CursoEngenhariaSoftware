@@ -22,14 +22,15 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 ## Exercícios Semanais
 
 * Valor: 15 pontos (a menor nota será descartada)
-* Individuais; para fazer em casa e entregar (impresso ou a mão) na aula de 3a feira. 
+* Individuais; para fazer em casa e entregar (impresso ou a mão) na aula de 2a feira. 
 * Não serão aceitas entregas por mail.
-* Enunciados - em breve
 * Observação: existem duas aulas práticas (TDD e Refactoring), que serão consideradas exercícios semanais. Essas aulas serão remotas, ou seja, o aluno vai fazer o roteiro da aula em casa. 
+* Enunciados:
+  * ES1: para 09/03 - todos os exercícios do cap. 1
 
 ## Exercícios em Sala de Aula
 
-* Toda 5a feira (a não ser quando avisado do contrário)
+* Toda 4a feira (a não ser quando avisado do contrário)
 * Valor: 20 pontos (a menor nota será descartada)
 
 ## Trabalho Prático
