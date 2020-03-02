@@ -2,7 +2,7 @@
 
 * Repositório do Curso de Engenharia de Software (60 horas)
 * Bacharelado em Ciência da Computação, DCC/UFMG
-* Prof. Marco Tulio Valente (mtov [at] dcc.ufmg.br)
+* Prof. Marco Tulio Valente - mtov [at] dcc.ufmg.br
 
 ## Plano do Curso
 
