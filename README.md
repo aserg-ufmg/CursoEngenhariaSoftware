@@ -1,4 +1,4 @@
-# Curso de Engenharia de Software
+## Curso de Engenharia de Software
 
 * Repositório do Curso de Engenharia de Software (60 horas)
 * Bacharelado em Ciência da Computação, DCC/UFMG
