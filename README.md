@@ -6,28 +6,33 @@
 
 # Plano do Curso
 
-* [Plano do Curso](https://docs.google.com/presentation/d/13x7qf92piGYh9d8doLylFKq7NjiSw5k5mv-uN_QCrc4/edit?usp=sharing)
+* Ver capítulos do livro texto
 
-# Slides e Livro Texto
+# Livro Texto
 
-Os slides e livro do curso estão disponíveis neste [link](https://engsoftmoderna.info).
+Engenharia de Software Moderna [link](https://engsoftmoderna.info).
 
 # Provas
 
-* Prova 1 (20 pontos): 09/09/2019 - 2a feira - Matéria: Caps. 1 a 3 - [Exercício de Revisão](https://docs.google.com/document/d/1auel_-zVVAdXW2EROP9IiEydzmbdPqVVSwqNqMbEZdA/edit?usp=sharing)
-* Prova 2 (25 pontos): 09/10/2019 - 4a feira - Matéria: Caps. 4 a 6
-* Prova 3 (20 pontos): 18/11/2019 - 2a feira - Matéria: Caps. 7 e 8 + slides Refactoring e Qualidade
-* Prova 2a chamada: 20/11/2019 - 4a feira - Apenas para alunos que perderam alguma prova (não precisa justificar); toda matéria
-* Exame Especial: 02/12/2019 - 2a feira - Matéria toda - Horário: 14:55 (mesma sala das aulas)
+* Prova 1 (20 pontos): data a definir 
+* Prova 2 (25 pontos): data a definir
+* Prova 2a chamada: data a definir - Apenas para alunos que perderam alguma prova (não precisa justificar); toda matéria
+* Exame Especial: data a definir - Matéria toda 
 
 # Exercícios Semanais
 
-* Valor: 15 pontos
-* [Enunciado](https://docs.google.com/document/d/1TDtA3cyu9Rv3P51lNL0URq1_1BInzNEpobSMCg2227Y/edit?usp=sharing)
+* Valor: 15 pontos (a menor nota será descartada)
+* Individuais; para fazer em casa e entregar (impresso ou a mão) na aula de 3a feira. Não serão aceitas entregas por mail.
+* Enunciados - em breve
+* Observação: existem duas aulas práticas (TDD e Refactoring), que serão consideradas exercícios semanais. Essas aulas serão remotas, ou seja, o aluno vai fazer o roteiro da aula em casa. 
+
+# Exercícios em Sala de Aula
+
+* Toda 5a feira (a não ser quando avisado do contrário)
+* Valor: 20 pontos (a menor nota será descartada)
 
 # Trabalho Prático
 
-* Valor: 15 pontos (TP1) e 5 pontos (TP2)
-* [Enunciado do TP1](https://docs.google.com/document/d/1iVDRva2ce0sFtuMjv1jClt_Z29d5QKelzQHWYflLRfo/edit?usp=sharing)
-* [Enunciado do TP2](https://docs.google.com/document/d/159nEyUVGYdr7EVYwQ8l-Lwl-83vdjJLpuGLU8VHmvuA/edit?usp=sharing)
-
+* Valor: 20 pontos
+* TP1 (15 pontos): Simulação de um sprint
+* TP2 (20 pontos): implementação de testes de unidade
