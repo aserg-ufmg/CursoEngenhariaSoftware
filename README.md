@@ -55,7 +55,10 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 * Fazer uso de eventos, artefatos e papéis de Scrum (mais detalhes em breve)
 * Data da entrega final: 2a semana de maio (aproximadamente)
 * Equipe: 4 ou 5 alunos
-* Primeira tarefa: abrir uma issue neste mesmo repositório da seguinte forma:
+
+### Primeira Tarefa:
+
+* Abrir uma issue neste mesmo repositório da seguinte forma:
   * Título da issue: nome do sistema e breve descrição (exemplo: ABC: Um sistema para XYZ)
   * Corpo da issue: nome dos membros da equipe; breve descrição das principais funcionalidades do sistema; breve descrição da tecnologia a ser usada (linguagem, frameworks e bancos de dados) e link para o repositório GitHub onde o projeto será desenvolvido.
   * Prazo: 12/03 (5a feira)
