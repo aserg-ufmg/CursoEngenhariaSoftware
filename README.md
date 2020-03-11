@@ -30,9 +30,9 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
   * ES1 - para 09/03 - Todos os exercícios do cap. 1
   * ES2 - para 16/03 - Cap. 2 - Exercícios 1 a 9
 
-## Exercícios em Sala de Aula
+## Testes Semanais 
 
-* Toda 4a feira (a não ser quando avisado do contrário)
+* Em sala de aula; toda 4a feira (a não ser quando avisado do contrário)
 * Individuais; sem consulta; duração: 40 minutos (final da aula)
 * Valor: 20 pontos (a menor nota será descartada)
 
