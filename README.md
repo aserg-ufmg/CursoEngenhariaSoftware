@@ -49,7 +49,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 * TP1 (15 pontos): simulação de um sprint
 * TP2 (20 pontos): implementação de testes de unidade (para o sistema do TP1)
 
-## TP1
+## TP1 (20 pontos)
 
 * Implementar um sistema real, em equipe, simulando o uso de um método ágil
 * Fazer uso de eventos, artefatos e papéis de Scrum (mais detalhes em breve)
@@ -61,5 +61,34 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 * Abrir uma issue neste mesmo repositório da seguinte forma:
   * Título da issue: nome do sistema e breve descrição (exemplo: ABC: Um sistema para XYZ)
   * Corpo da issue: nome dos membros da equipe; breve descrição das principais funcionalidades do sistema; breve descrição da tecnologia a ser usada (linguagem, frameworks e bancos de dados) e link para o repositório GitHub onde o projeto será desenvolvido.
+  * A linguagem escolhida deve possuir um framework para testes de unidade, da família xUnit (pois esse será o objetivo do TP2). No entanto, as linguagens mais conhecidas -- como Java, JavaScript, Python, Ruby, C, C++, etc -- possuem esses frameworks.
   * Prazo: 12/03 (5a feira)
 * Os alunos já podem também estudar qualquer tecnologia que pretendem usar no trabalho, mas que ainda não tem domínio dela.
+
+#### Segunda Tarefa: Sprint Planning
+
+* Escrever de 5-10 estórias
+* Quebrar as estórias em tarefas; alocar as tarefas para membros do time. 
+* Documentar estórias, tarefas e responsáveis no README do projeto (em uma uma seção chamada Sprint Planning)
+* Criar um diagrama de pacotes UML do sistema, descrevendo sua arquitetura em alto nível (mais detalhes sobre diagramas de pacotes no Capítulo 4, Seção 4.4 do livro texto). Acrescentar esse diagrama no README do repositório, em uma seção chamada Arquitetura
+* Prazo: 20/03 - Valor: 2 pontos
+
+#### Terceira Tarefa: Sprint Review
+
+* Importante: realizar commits com frequencia (cada membro do grupo). A frequencia e "conteúdo" dos commits será objeto de avaliação. Como é um trabalho em equipe, é importante que todos participem.
+* Sugere-se que cada membro da equipe trabalhe 25 horas no sprint, durante o mês de Março/Abril.
+
+#### Quarta Tarefa: Sprint Review
+
+* Datas: 04 e 06/05
+* Demonstração do trabalho em sala de aula, para o professor.
+
+#### OrientaçÕes para o Sprint Review
+
+* Em sala de aula, 12 minutos, incluindo uma demonstração funcional de todo o sistema.
+* Como são vários grupos, o tempo de apresentação será cumprido rigorosamente. 
+* Todos membros do grupo devem estar presentes; mas, para otimizar, a apresentação pode ser realizada por 1-2 membros. Quem não puder estar presente, favor justificar por mail.
+* Chegar com tudo preparado para a apresentação, incluindo laptop, dados de teste, roteiro do que será apresentado etc. Não conte que o WiFi da sala estará funcionando.
+* Caso alguém não tenha um laptop para demonstração, favor entrar em contato com o prof.
+
+
