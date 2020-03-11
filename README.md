@@ -54,7 +54,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 * Implementar um sistema real, em equipe, simulando o uso de um método ágil, similar a Scrum
 * Equipe: 4 ou 5 alunos
 
-#### Primeira Tarefa:
+#### Primeira Tarefa: Definição de Escopo e Tecnologia
 
 * Abrir uma [issue](https://github.com/aserg-ufmg/CursoEngenhariaSoftware/issues) neste mesmo repositório da seguinte forma:
   * Título da issue: nome do sistema e breve descrição (exemplo: ABC: Um sistema para XYZ)
