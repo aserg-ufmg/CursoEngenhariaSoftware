@@ -56,7 +56,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 
 #### Primeira Tarefa:
 
-* Abrir uma issue neste mesmo repositório da seguinte forma:
+* Abrir uma [issue](https://github.com/aserg-ufmg/CursoEngenhariaSoftware/issues) neste mesmo repositório da seguinte forma:
   * Título da issue: nome do sistema e breve descrição (exemplo: ABC: Um sistema para XYZ)
   * Corpo da issue: nome dos membros da equipe; breve descrição das principais funcionalidades do sistema; breve descrição da tecnologia a ser usada (linguagem, frameworks e bancos de dados) e link para o repositório GitHub onde o projeto será desenvolvido.
 * A linguagem escolhida deve possuir um framework para testes de unidade, da família xUnit, pois esse será o objetivo do TP2. As linguagens mais conhecidas -- como Java, JavaScript, Python, Ruby, C, C++, etc -- possuem esses frameworks.
