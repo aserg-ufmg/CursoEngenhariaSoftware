@@ -56,7 +56,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 * Data da entrega final: 2a semana de maio (aproximadamente)
 * Equipe: 4 ou 5 alunos
 
-### Primeira Tarefa:
+#### Primeira Tarefa:
 
 * Abrir uma issue neste mesmo repositório da seguinte forma:
   * Título da issue: nome do sistema e breve descrição (exemplo: ABC: Um sistema para XYZ)
