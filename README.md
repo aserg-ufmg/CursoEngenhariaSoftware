@@ -83,7 +83,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 * Datas: 04 e 06/05
 * Demonstração do trabalho em sala de aula, para o professor.
 
-#### OrientaçÕes para o Sprint Review
+#### Orientações para o Sprint Review
 
 * Em sala de aula, 12 minutos, incluindo uma demonstração funcional de todo o sistema.
 * Como são vários grupos, o tempo de apresentação será cumprido rigorosamente. 
@@ -91,4 +91,6 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 * Chegar com tudo preparado para a apresentação, incluindo laptop, dados de teste, roteiro do que será apresentado etc. Não conte que o WiFi da sala estará funcionando.
 * Caso alguém não tenha um laptop para demonstração, favor entrar em contato com o prof.
 
+## TP2 (5 pontos)
 
+* Implementação de testes de unidade (para o sistema do TP1). Mais detalhes em breve.
