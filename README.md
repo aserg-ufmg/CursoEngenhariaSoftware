@@ -75,7 +75,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 
 #### Terceira Tarefa: Sprint
 
-* Importante: cada membro do grupo deve realizar commits com frequencia. A frequencia, data e "conteúdo" dos commits será objeto de avaliação. Como é um trabalho em equipe, é importante que todos participem.
+* Importante: *cada membro do grupo deve realizar commits com frequencia*. A frequencia, data e "conteúdo" dos commits será objeto de avaliação. Como é um trabalho em equipe, é importante que todos participem.
 * Sugere-se que cada membro da equipe trabalhe 25 horas no sprint, durante os meses de Março/Abril/Maio.
 
 #### Quarta Tarefa: Sprint Review
