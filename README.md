@@ -28,8 +28,10 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 * Observação: existem duas aulas práticas (TDD e Refactoring), que serão consideradas exercícios semanais. Essas aulas serão remotas, ou seja, o aluno vai fazer o roteiro da aula em casa. 
 * Enunciados:
   * ES1 - para 09/03 - Todos os exercícios do cap. 1
-  * ES2 - para 16/03 - Cap. 2 - Exercícios 1 a 9
-
+  * ES2 - próxima aula presencial - Cap. 2 - Exercícios 1 a 9
+  * ES3 - próxima aula presencial - Cap. 2 - Exercícios restantes
+  * ES4 - próxima aula presencial - Cap. 3 - todos os exercícios
+  
 ## Testes Semanais 
 
 * Em sala de aula; toda 4a feira (a não ser quando avisado do contrário)
