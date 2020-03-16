@@ -70,8 +70,9 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 * Escrever de 5-10 estórias
 * Quebrar as estórias em tarefas; alocar as tarefas para membros do time. 
 * Documentar estórias, tarefas e responsáveis no README do projeto, em uma uma seção chamada Sprint Planning.
-* Criar um diagrama de pacotes UML do sistema, descrevendo sua arquitetura em alto nível. Mais detalhes sobre diagramas de pacotes no Capítulo 4, Seção 4.4 do livro texto. Adicionar esse diagrama no README do repositório, em uma seção chamada Arquitetura
+* **Criar um diagrama de pacotes UML do sistema, descrevendo sua arquitetura em alto nível.** Mais detalhes sobre diagramas de pacotes no Capítulo 4, Seção 4.4 do livro texto. Adicionar esse diagrama no README do repositório, em uma seção chamada Arquitetura
 * Prazo: 20/03 - Valor: 2 pontos
+* **A etapa anterior é muito importante para dividir e organizar o trabalho de desenvolvimento, incluindo: definir os módulos do sistema, definir as interfaces (ou a API de cada módulo) e alocar os módulos para os membros do time. Se isso for bem efeito, o sprint irá transcorrer com bem mais tranquilidade.**
 
 #### Terceira Tarefa: Sprint
 
