@@ -33,8 +33,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 
 ## Pontos Extra
 
-* 0.25 pontos para cada "typo" (erro de ortografia, gramatical, etc) encontrado no livro texto
-* 1.0 ponto para qualquer outro tipo de erro; mas limitado a 3 pontos por aluno
+* 0.25 pontos para cada "typo" (erro de ortografia, gramatical, etc) encontrado no livro texto e 1.0 ponto para qualquer outro tipo de erro. Sempre limitado a 3 pontos por aluno
 * Para garantir o ponto: enviar mail para o professor (apenas o aluno que achar primeiro o erro será contemplado)
 
 ## Trabalho Prático
