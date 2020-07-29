@@ -15,28 +15,21 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 
 ## Provas
 
-* Prova 1 (20 pontos): data a definir 
-* Prova 2 (25 pontos): data a definir
-* Prova 2a chamada: data a definir - Para alunos que perderam alguma prova (não precisa justificar); matérias toda.
-* Exame Especial: data a definir - Matéria toda 
+* Prova 1 (20 pontos): 09/09/2020 - 15:00-16:40
+* Prova 2 (20 pontos): 28/10/2020 - 15:00-16:40
+* Formato: síncrono; via Moodle
 
-## Exercícios Semanais
+## Testes Semanais
 
-* Valor: 15 pontos (a menor nota será descartada)
-* Individuais; para fazer em casa e entregar (impresso ou a mão) na aula de 2a feira. 
-* Não serão aceitas entregas por mail.
-* Observação: existem duas aulas práticas (TDD e Refactoring), que serão consideradas exercícios semanais. Essas aulas serão remotas, ou seja, o aluno vai fazer o roteiro da aula em casa. 
-* Enunciados:
-  * ES1 - para 09/03 - Todos os exercícios do cap. 1
-  * ES2 - próxima aula presencial - Cap. 2 - Exercícios 1 a 9
-  * ES3 - próxima aula presencial - Cap. 2 - Exercícios restantes
-  * ES4 - próxima aula presencial - Cap. 3 - todos os exercícios
-  
-## Testes Semanais 
+* Valor: 32 pontos (8 testes; 4 pontos cada um)
+* Formato: assíncrono (alunos terão 1-2 dias para entregar); via Moodle
+* Os testes começarão na semana do dia 17/08; mais informações em breve
 
-* Em sala de aula; toda 4a feira (a não ser quando avisado do contrário)
-* Individuais; sem consulta; duração: 40 minutos (final da aula)
-* Valor: 20 pontos (a menor nota será descartada)
+## Aulas Práticas 
+
+* Valor: 8 pontos (2 aulas; 4 pontos cada uma)
+* Formato: realização de roteiro em casa e upload do código para o GitHub (alunos terão ~5 dias para entregar).
+* Mais informações próximo das aulas (que irão ocorrer mais no final do semestre)
 
 ## Pontos Extra
 
@@ -81,16 +74,13 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 
 #### Quarta Tarefa: Sprint Review
 
-* Datas: 04 e 06/05
+* Datas: DATA A DEFINIR EM BREVE
 * Demonstração do trabalho em sala de aula, para o professor, de acordo com escala a ser definida.
 
 #### Orientações para o Sprint Review
 
-* Em sala de aula, 12 minutos, incluindo uma demonstração funcional do sistema.
-* Como são vários grupos, o tempo de apresentação será cumprido rigorosamente. 
-* Todos membros do grupo devem estar presentes; mas, para otimizar, a apresentação pode ser realizada por 1-2 membros. Quem não puder estar presente, favor justificar por mail.
-* Chegar com tudo preparado para a apresentação, incluindo laptop, dados de teste, roteiro do que será apresentado etc. Não conte que o WiFi da sala estará funcionando.
-* Caso alguém não tenha um laptop para demonstração, favor entrar em contato com o professor.
+* REMOTO, 12 minutos, incluindo uma demonstração funcional do sistema.
+* Mais informações em breve
 
 ## TP2 (5 pontos)
 
