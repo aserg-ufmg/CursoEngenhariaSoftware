@@ -16,7 +16,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 ## Provas
 
 * Prova 1 (20 pontos): 09/09/2020 - 15:00-16:40
-* Prova 2 (20 pontos): 28/10/2020 - 15:00-16:40
+* Prova 2 (5 pontos): 28/10/2020 - 15:00-16:40
 * Formato: síncrono; via Moodle
 
 ## Testes Semanais
