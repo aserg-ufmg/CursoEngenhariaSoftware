@@ -4,32 +4,22 @@
 * Bacharelado em Ciência da Computação, DCC/UFMG
 * Prof. Marco Tulio Valente - mtov [at] dcc.ufmg.br
 
-## Plano do Curso
-
-* Ver capítulos do livro texto
-* Pré-requisito: conceitos de algoritmos e estruturas de dados; conceitos de orientação a objetos.
-
 ## Livro Texto
 
 Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 
 ## Provas
 
-* Prova 1 (20 pontos): 09/09/2020 - 15:00-16:40
-* Prova 2 (5 pontos): 28/10/2020 - 15:00-16:40
-* Formato: síncrono; via Moodle
+* Prova 1 (20 pontos)
+* Prova 2 (5 pontos)
 
 ## Testes Semanais
 
 * Valor: 32 pontos (8 testes; 4 pontos cada um)
-* Formato: assíncrono (alunos terão 1-2 dias para entregar); via Moodle
-* Os testes começarão na semana do dia 17/08; mais informações em breve
 
 ## Aulas Práticas 
 
 * Valor: 8 pontos (2 aulas; 4 pontos cada uma)
-* Formato: realização de roteiro em casa e upload do código para o GitHub (alunos terão ~5 dias para entregar).
-* Mais informações próximo das aulas (que irão ocorrer mais no final do semestre)
 
 ## Pontos Extra
 
