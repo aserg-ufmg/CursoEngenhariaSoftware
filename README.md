@@ -11,11 +11,11 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info)).
 ## Provas
 
 * Prova 1 (20 pontos)
-* Prova 2 (5 pontos)
+* Prova 2 (20 pontos)
 
 ## Testes Semanais
 
-* Valor: 32 pontos (8 testes; 4 pontos cada um)
+* Valor: 32 pontos (9 testes; 4 pontos cada um; menor nota será descartada)
 
 ## Aulas Práticas 
 
